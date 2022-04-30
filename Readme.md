@@ -1,6 +1,6 @@
 # Analyse der Anfälligkeit für Hangrutschungen in Vietnam
 
-Dieses Projekt wurde im Rahmen des Moduls Geo 403 - Geoinformatikprojekt an der Friedrich-Schiller-Universität Jena von *Felix Fest*, *Tim Grünemay*, *Max Markhardt*, *Justin Volkert* und *Lei Wang* erstellt und basiert auf den Arbeiten des Betreuers des Moduls, *Markus Meinhardt*.
+Dieses Projekt wurde im Rahmen des Moduls Geo 403 - Geoinformatikprojekt an der Friedrich-Schiller-Universität Jena von *Felix Fest*, *Tim Grünemay*, *Max Marquardt*, *Justin Volkert* und *Lei Wang* erstellt und basiert auf den Arbeiten des Betreuers des Moduls, *Markus Meinhardt*.
 
 Ziel des Projektes war es, aus verschiedenen räumlichen Parametern die Anfälligkeit für Hangrutschungen eines vorgegebenen Untersuchungsgebietes in Vietnam zu ermitteln. Dies Sollte auf Basis von zwei verschiedenen statistischen Methoden geschehen und mithilfe eines Modelbuilders automatisiert werden. 
 
@@ -14,6 +14,7 @@ Die für die Berechnung verwendeten Parameter setzen sich aus folgenden zusammen
 * Curvature_plan
 * Curvature_prof
 * Distance to Roads
+* Distance to River
 * Landuse
 * Lithosphere
 * Topographic Wetness Index (TWI)
